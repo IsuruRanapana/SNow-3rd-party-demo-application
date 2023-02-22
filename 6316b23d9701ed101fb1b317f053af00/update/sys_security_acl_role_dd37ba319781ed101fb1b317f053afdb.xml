@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 04:57:58</sys_created_on>
+        <sys_id>dd37ba319781ed101fb1b317f053afdb</sys_id>
+        <sys_name>x_979268_eyepax_sn_note.x_979268_eyepax_sn.note_user</sys_name>
+        <sys_package display_value="Eyepax SNow 3rd Party App Demo" source="x_979268_eyepax_sn">6316b23d9701ed101fb1b317f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eyepax SNow 3rd Party App Demo">6316b23d9701ed101fb1b317f053af00</sys_scope>
+        <sys_security_acl display_value="x_979268_eyepax_sn_note">1937ba319781ed101fb1b317f053afd9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd37ba319781ed101fb1b317f053afdb</sys_update_name>
+        <sys_user_role display_value="x_979268_eyepax_sn.note_user" name="x_979268_eyepax_sn.note_user">49377a319781ed101fb1b317f053afca</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

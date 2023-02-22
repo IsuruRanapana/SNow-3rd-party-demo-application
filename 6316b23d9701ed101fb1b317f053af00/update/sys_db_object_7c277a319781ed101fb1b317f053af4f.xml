@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Note</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_979268_eyepax_sn_note</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 04:57:57</sys_created_on>
+        <sys_id>7c277a319781ed101fb1b317f053af4f</sys_id>
+        <sys_name>Note</sys_name>
+        <sys_package display_value="Eyepax SNow 3rd Party App Demo" source="x_979268_eyepax_sn">6316b23d9701ed101fb1b317f053af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Eyepax SNow 3rd Party App Demo">6316b23d9701ed101fb1b317f053af00</sys_scope>
+        <sys_update_name>sys_db_object_7c277a319781ed101fb1b317f053af4f</sys_update_name>
+        <update_access>false</update_access>
+        <user_role display_value="x_979268_eyepax_sn.note_user" name="x_979268_eyepax_sn.note_user">49377a319781ed101fb1b317f053afca</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

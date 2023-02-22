@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a1577efd9741ed101fb1b317f053af35" sys_domain="global" table="x_979268_eyepax_sn_note" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_note_title</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:45</sys_created_on>
+            <sys_id>8583073d9781ed101fb1b317f053af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepax_sn_note" sys_domain="global" view="Default view">a1577efd9741ed101fb1b317f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-17 05:51:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:45</sys_created_on>
+            <sys_id>8983073d9781ed101fb1b317f053af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepax_sn_note" sys_domain="global" view="Default view">a1577efd9741ed101fb1b317f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-17 05:51:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:45</sys_created_on>
+            <sys_id>8d83073d9781ed101fb1b317f053af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepax_sn_note" sys_domain="global" view="Default view">a1577efd9741ed101fb1b317f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-17 05:51:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_note_description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:45</sys_created_on>
+            <sys_id>8183073d9781ed101fb1b317f053af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepax_sn_note" sys_domain="global" view="Default view">a1577efd9741ed101fb1b317f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-17 05:51:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 05:51:45</sys_created_on>
+            <sys_id>8583073d9781ed101fb1b317f053af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepax_sn_note" sys_domain="global" view="Default view">a1577efd9741ed101fb1b317f053af35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-17 05:51:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_979268_eyepax_sn_note</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-17 04:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1577efd9741ed101fb1b317f053af35</sys_id>
+            <sys_name>x_979268_eyepax_sn_note</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Eyepax SNow 3rd Party App Demo" source="x_979268_eyepax_sn">6316b23d9701ed101fb1b317f053af00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Eyepax SNow 3rd Party App Demo">6316b23d9701ed101fb1b317f053af00</sys_scope>
+            <sys_update_name>sys_ui_section_a1577efd9741ed101fb1b317f053af35</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

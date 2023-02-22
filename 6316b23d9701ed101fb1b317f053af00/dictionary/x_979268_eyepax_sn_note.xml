@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7c277a319781ed101fb1b317f053af4f" label="Note" max_length="40" name="x_979268_eyepax_sn_note" type="collection">
+        <element attributes="encode_utf8=false" label="Created by" max_length="32" name="u_created_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Due date" mandatory="true" max_length="40" name="u_due_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Note Description" mandatory="true" max_length="40" name="u_note_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Note Title" mandatory="true" max_length="40" name="u_note_title" type="string"/>
+        <index name="index">
+            <element name="u_created_by"/>
+        </index>
+    </element>
+</database>
